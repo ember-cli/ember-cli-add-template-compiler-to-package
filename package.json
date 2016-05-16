@@ -1,0 +1,26 @@
+{
+  "name": "ember-cli-add-template-compiler-to-package",
+  "version": "1.0.0",
+  "description": "Adds a template compiler to a package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ember-cli/ember-cli-add-template-compiler-to-package.git"
+  },
+  "keywords": [
+    "ember-cli"
+  ],
+  "author": "Jake Bixby",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ember-cli/ember-cli-add-template-compiler-to-package/issues"
+  },
+  "homepage": "https://github.com/ember-cli/ember-cli-add-template-compiler-to-package#readme",
+  "dependencies": {
+    "fs-extra": "0.26.2",
+    "rsvp": "^3.0.17"
+  }
+}
