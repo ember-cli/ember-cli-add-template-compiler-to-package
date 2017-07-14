@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/ember-cli/ember-cli-add-template-compiler-to-package#readme",
   "dependencies": {
-    "fs-extra": "2.1.0",
+    "fs-extra": "4.0.0",
     "rsvp": "^3.0.17"
   }
 }
